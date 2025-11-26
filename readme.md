@@ -2,6 +2,7 @@
 
 This project delivers a highly interactive **Customer Sales Performance Dashboard** built entirely using **Microsoft Excel**. It leverages the power of dynamic charts, pivot tables, slicers, and KPI cards to provide comprehensive analysis of customer transaction data. The dashboard is designed to help businesses track essential metrics like **total revenue**, identify the **top-performing salesperson**, pinpoint **high-demand product categories**, and analyze **sales trends over time**.
 
+![Customer Sales Performance Dashboard](dashboard.png)
 ---
 
 ## 🎯 Dashboard Objectives
